@@ -1,0 +1,21 @@
+//# 1
+
+function saludar() { console.log("hola") };
+
+saludar()
+    //# 2
+const Mayuscula = nombre => nombre.toUppercase()
+
+let nombre = Mayuscula("Lautaro")
+
+console.leg(nombre) LAUTARO
+
+//# 3
+function suma(a, b) { return a + b; }
+
+const resultado = suma(5, 10);
+console.log(resultado);
+
+const unafuncion = () => { console.log(1); };
+
+unafuncion();
