@@ -1,0 +1,11 @@
+body {
+    background-color: #0089BA;
+    color: rgba(255, 255, 255, 0.819);
+    font-family: 'Kanit', sans-serif;
+}
+
+button {
+    color: rgb(255, 255, 255);
+    background-color: rgb(7, 7, 7);
+    font-family: 'Kanit', sans-serif;
+}
